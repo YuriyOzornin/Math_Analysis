@@ -1,5 +1,6 @@
 # Math_Analysis
 ## 2/ Множество. Последовательность. Часть 1 hw2
+![image](https://github.com/user-attachments/assets/80bab667-48dd-4c72-850d-981875056c95)
 ## 3/ Множество. Последовательность. Часть 2 hw3
 ![image](https://github.com/user-attachments/assets/22a2d5a7-3760-40fb-970d-77125ddb9d1a)
 ## 4/ Предел функции. Часть 1 hw4
