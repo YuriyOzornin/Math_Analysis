@@ -13,3 +13,9 @@
 ![image](https://github.com/user-attachments/assets/d791cd1a-7eb3-4cf4-b6a6-368a0153130d)
 ## 8/Производная функции нескольких переменных. Часть 1
 ![2024-08-07_06-39-55](https://github.com/user-attachments/assets/8fad81f2-b25c-45d9-9774-51d92831656f)
+## 9/Производная функции нескольких переменных. Часть 2
+![2024-08-07_06-42-15](https://github.com/user-attachments/assets/eb90807c-9998-47cc-803f-e2f621407327)
+## 10/Интеграл. Ряды. Часть 1
+![2024-08-07_20-28-37](https://github.com/user-attachments/assets/4c19c975-aa45-4371-8af8-c378cdabe6a9)
+## Интеграл. Ряды. Часть 2
+![2024-08-07_20-32-46](https://github.com/user-attachments/assets/4ad8c6d4-0470-4bb1-a269-79f122aeff8f)
