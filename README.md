@@ -12,4 +12,4 @@
 ## 7/ Производная функции одной переменной. Часть 2 hw7
 ![image](https://github.com/user-attachments/assets/d791cd1a-7eb3-4cf4-b6a6-368a0153130d)
 ## 8/Производная функции нескольких переменных. Часть 1
-![pdf](https://github.com/user-attachments/files/16517209/default.pdf)
+![2024-08-07_06-39-55](https://github.com/user-attachments/assets/8fad81f2-b25c-45d9-9774-51d92831656f)
