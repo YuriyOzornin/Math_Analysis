@@ -11,3 +11,5 @@
 ![image](https://github.com/user-attachments/assets/320535e6-c55b-4b82-93a2-d60ee5f4e60c)
 ## 7/ Производная функции одной переменной. Часть 2 hw7
 ![image](https://github.com/user-attachments/assets/d791cd1a-7eb3-4cf4-b6a6-368a0153130d)
+## 8/Производная функции нескольких переменных. Часть 1
+[Домашнее задание по теме «Производные функций нескольких переменных».pdf](https://github.com/user-attachments/files/16517209/default.pdf)
